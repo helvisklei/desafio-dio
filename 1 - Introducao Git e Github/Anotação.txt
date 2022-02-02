@@ -1,0 +1,9 @@
+Link para download do Git: https://git-scm.com/downloads
+
+1. Revisando comando Git/GitHub (Git status|Git add .|Git commit -m "teste"| Git push origin main  ) Git pull Atualiza a pasta local e remota.
+
+  .Criando repositório Git/GitHub
+  .Clonando repositório do Git
+  
+  
+

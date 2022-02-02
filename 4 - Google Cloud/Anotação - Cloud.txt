@@ -1,0 +1,8 @@
+Primeiros passo no Google Cloud pela instituição FAT
+
+Your profile is public and accessible at https://www.cloudskillsboost.google/public_profiles/f0f6298f-7490-470f-9ddf-a8672bcd92eb
+
+Estudando para certificação Google Cloud Coursera
+Google Cloud Fundamentals: Core Infrastructure em Português Brasileiro
+Link: https://www.coursera.org/learn/gcp-fundamentals-br/home/welcome
+
